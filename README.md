@@ -6,3 +6,5 @@ Spring Boot application for basic management of a list of to-dos
 RESTful API
 
 Swagger UI for documentation
+
+MongoDB used for storage
