@@ -22,3 +22,9 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+
+# Dependency directories
+node_modules/
+node/
+src/main/webapp/bundle.js
+src/main/webapp/bundle.js.map
