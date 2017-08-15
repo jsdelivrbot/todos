@@ -8,3 +8,5 @@ RESTful API
 Swagger UI for documentation
 
 MongoDB used for storage
+
+React Redux UI
